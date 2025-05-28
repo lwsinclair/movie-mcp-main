@@ -1,5 +1,7 @@
 # Movie MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@yusaaztrk/movie-mcp-main)](https://smithery.ai/server/@yusaaztrk/movie-mcp-main)
+
 A Model Context Protocol (MCP) server that provides movie and TV show information using The Movie Database (TMDB) API.
 
 ## Features
@@ -35,6 +37,14 @@ Search for movies and TV shows by name.
   - Poster image URL
 
 ## Installation
+
+### Installing via Smithery
+
+To install movie-mcp-main for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@yusaaztrk/movie-mcp-main):
+
+```bash
+npx -y @smithery/cli install @yusaaztrk/movie-mcp-main --client claude
+```
 
 1. Install dependencies:
 ```bash
