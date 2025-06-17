@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/yusaaztrk-movie-mcp-main-badge.png)](https://mseep.ai/app/yusaaztrk-movie-mcp-main)
+
 # Movie MCP Server
 
 A Model Context Protocol (MCP) server that provides movie and TV show information using The Movie Database (TMDB) API.
